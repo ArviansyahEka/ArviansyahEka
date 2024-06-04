@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arviansyah Eka</h1>
+<h1 align="center">Hi 👋, I'm Arviansyah Eka!</h1>
 <h3 align="center">I'm a undergraduate student that major in software engineering at Gadjah Mada University. Ambitious at direct video and produce video. I like to build connection with other people. have a honest personality, good working as a team, has a leadership mentality, has internationally topic and good in audio visual, also good in HTML CSS JS coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arviansyaheka&label=Profile%20views&color=0e75b6&style=flat" alt="arviansyaheka" /> </p>
